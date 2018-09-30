@@ -1,0 +1,15 @@
+.bc-signature-label {
+    margin: 5px;
+}
+.bc-step-1 {
+    margin: 50px;
+}
+.bc-checkout, .bc-dropdown {
+    text-align: center;
+}
+.bc-text, .bc-dropdown {
+    margin: 5px;
+}
+.bc-cart {
+    padding: 15px;
+}

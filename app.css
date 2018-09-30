@@ -1,10 +1,53 @@
-body {
-    background-color: blanchedalmond;
-}
-
 .bc-col {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+.bc-title {
+    padding: 50px;
+    font-family: 'Rufina', serif;
+    text-transform: uppercase;
+}
+.bc-nav {
+    padding: 57px;
+}
+.bc-nav-link {
+    padding: 10px;
+    margin: 5px;
+}
+.bc-home-img, .bc-end-image {
+    background-image: url("images/home.jpg");
+    height: 600px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bc-end-image {
+    height: 300px;
+    margin-top: 70px;
+}
+.bc-signature-label {
+    text-align:center;
+    margin:50px;
+}
+.bc-signature-button {
+    margin-top: 10px;
+}
+.bc-insta-end {
+    height:20px;
+}
+.bc-footer {
+    margin: 30px;
+}
+.bc-follow {
+    margin: 20px;
+}
+h2 {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 9.75px;
+}
+img {
+    padding:10px;
 }
