@@ -39,7 +39,7 @@ hr {
 }
 /* TOP AND BOTTOM HOME IMAGES */
 .bc-home-img, .bc-end-image {
-    background-image: url("images/home.jpg");
+    background-image: url("https://66.media.tumblr.com/8996ab4b565e0fed17ca39189e4be9c4/tumblr_p57gf3gUB01we9f2ro1_r1_1280.gif");
     height: 600px; 
     background-attachment: fixed;
     background-position: center;
@@ -47,6 +47,7 @@ hr {
     background-size: cover;
 }
 .bc-end-image {
+    background-image: url("https://66.media.tumblr.com/2710350b094297d8ff1b41f9344dbbc6/tumblr_p626nxm7tW1uo4apxo1_1280.jpg");
     height: 550px;
     margin-top: 70px;
 }
@@ -140,6 +141,9 @@ a.bc-insta-link {
     color:rgba(0, 0, 0);
 }
 /* FOOTER */
+.bc-footer {
+    margin-top: 45px;
+}
 .bc-footer-title{
     font-family: 'Rufina', serif;
     text-transform: uppercase;
